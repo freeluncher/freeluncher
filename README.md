@@ -81,14 +81,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Si Serviks</h3>
+      <h3>SiServiks</h3>
       <p>Automated build and deployment workflow with GitHub Actions</p>
       <p>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions" alt="GitHub Actions">
         <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2" alt="EC2">
         <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform" alt="Terraform">
       </p>
-      <a href="https://github.com/[username]/ci-cd-pipeline">
+      <a href="https://github.com/freeluncher/serviks-detection">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
@@ -100,7 +100,7 @@
         <img src="https://img.shields.io/badge/Jest-C21325?logo=jest" alt="Jest">
         <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx" alt="NGINX">
       </p>
-      <a href="https://github.com/[username]/api-gateway">
+      <a href="https://github.com/freeluncher/sailong">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
