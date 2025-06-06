@@ -71,8 +71,10 @@
       <p>Flutter-based fetal heart rate monitoring (Fetal BPM) application, integrated with ESP32 BLE, with multi-role features: Admin, Doctor, and Patient. Supports real-time monitoring, user management, and application updates via Google Drive.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-3.7.0-blue?logo=flutter" alt="Flutter">
-        <img src="https://img.shields.io/github/actions/workflow/status/freeluncher/dopply_app/flutter.yml?branch=main&label=build" alt="Github Actions">
         <img src="https://img.shields.io/pub/v/flutter_blue_plus?label=flutter_blue_plus" alt="Flutter Blue Plus">
+        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx" alt="NGINX">
       </p>
       <a href="https://github.com/freeluncher/dopply_app">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
@@ -82,11 +84,17 @@
   <tr>
     <td width="50%">
       <h3>SiServiks</h3>
-      <p>Automated build and deployment workflow with GitHub Actions</p>
+      <p>Serviks Detection adalah aplikasi web untuk pemeriksaan dan diagnosa serviks berbasis Laravel (backend & frontend) dan Flask (API Machine Learning). Aplikasi ini dikembangkan untuk membantu deteksi dini kanker serviks berbasis teknologi AI dan web modern.
+
+</p>
       <p>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions" alt="GitHub Actions">
-        <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazonec2" alt="EC2">
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform" alt="Terraform">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx" alt="NGINX">rm">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <a href="https://github.com/freeluncher/serviks-detection">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
@@ -94,11 +102,15 @@
     </td>
     <td width="50%">
       <h3>Sailong</h3>
-      <p>Microservices architecture with rate limiting and auth middleware</p>
+      <p>Sailong is a reservation and information portal for tourism, culinary and accommodation in Ngesrepbalong Village, Limbangan District, Kendal Regency, Central Java. This platform makes it easy for tourists to find interesting destinations, typical culinary delights and comfortable accommodation with a modern, responsive and professional appearance.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs" alt="Node.js">
-        <img src="https://img.shields.io/badge/Jest-C21325?logo=jest" alt="Jest">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx" alt="NGINX">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <a href="https://github.com/freeluncher/sailong">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
