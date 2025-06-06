@@ -68,13 +68,13 @@
     </td>
     <td width="50%">
       <h3>Dopply App</h3>
-      <p>Monitoring platform with live data streaming and visualization</p>
+      <p>Flutter-based fetal heart rate monitoring (Fetal BPM) application, integrated with ESP32 BLE, with multi-role features: Admin, Doctor, and Patient. Supports real-time monitoring, user management, and application updates via Google Drive.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?logo=react" alt="React">
-        <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio" alt="Socket.io">
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs" alt="Chart.js">
+        <img src="https://img.shields.io/badge/Flutter-3.7.0-blue?logo=flutter" alt="Flutter">
+        <img src="https://img.shields.io/github/actions/workflow/status/freeluncher/dopply_app/flutter.yml?branch=main&label=build" alt="Github Actions">
+        <img src="https://img.shields.io/pub/v/flutter_blue_plus?label=flutter_blue_plus" alt="Flutter Blue Plus">
       </p>
-      <a href="https://github.com/[username]/realtime-dashboard">
+      <a href="https://github.com/freeluncher/dopply_app">
         <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
