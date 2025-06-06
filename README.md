@@ -67,7 +67,7 @@
       </a>
     </td>
     <td width="50%">
-      <h3>Real-time Dashboard</h3>
+      <h3>Dopply App</h3>
       <p>Monitoring platform with live data streaming and visualization</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?logo=react" alt="React">
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>CI/CD Pipeline</h3>
+      <h3>Si Serviks</h3>
       <p>Automated build and deployment workflow with GitHub Actions</p>
       <p>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions" alt="GitHub Actions">
@@ -93,7 +93,7 @@
       </a>
     </td>
     <td width="50%">
-      <h3>Campus API Gateway</h3>
+      <h3>Sailong</h3>
       <p>Microservices architecture with rate limiting and auth middleware</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs" alt="Node.js">
