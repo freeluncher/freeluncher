@@ -92,9 +92,7 @@
   <tr>
     <td width="50%">
       <h3>SiServiks</h3>
-      <p>Serviks Detection adalah aplikasi web untuk pemeriksaan dan diagnosa serviks berbasis Laravel (backend & frontend) dan Flask (API Machine Learning). Aplikasi ini dikembangkan untuk membantu deteksi dini kanker serviks berbasis teknologi AI dan web modern.
-
-</p>
+      <p>Cervical Detection is a web application for cervical examination and diagnosis based on Laravel (backend & frontend) and Flask (Machine Learning API). This application was developed to help early detection of cervical cancer based on modern AI and web technology.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
         <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
